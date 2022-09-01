@@ -1,1 +1,2 @@
-../cells_world_game/Logs
+/cells_world_game/Logs/
+*.log
