@@ -1,3 +1,10 @@
 cells_world_game/Logs/
+cells_world_game/Library/ArtifactDB
+cells_world_game/Library/EditorInstance.json
+cells_world_game/Library/SceneVisibilityState.asset
+cells_world_game/Library/ShaderCache/EditorEncounteredVariants
 cells_world_game/Library/PackageCache/
+cells_world_game/Library/PackageManager/ProjectCache
+cells_world_game/Library/PackageManager/ProjectCache.md5
+cells_world_game/Temp/
 *.log
